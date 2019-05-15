@@ -8,7 +8,5 @@
   },
   "author": "ETC",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "dependencies": {}
 }
